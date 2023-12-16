@@ -2,7 +2,7 @@ import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
     todoList: [],
-    count: 888,
+    title: "Hello World",
 };
 
 const todoSlice = createSlice({
